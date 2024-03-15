@@ -266,28 +266,30 @@ export const education = [
 export const projects = [
   {
     id: 9,
-    title: "Trackify",
-    date: "Jun 2023 - Jul 2023",
+    title: "CRM ",
+    // date: "Jun 2023 - Jul 2023",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      `I've developed a notable project for Dolphin Furnishing India, a live 
+      website built with Django, React JS, and SQLite. It features a dynamic 
+      dashboard catering to different user roles like super_admin, admin, 
+      client_admin, and client_user, facilitating seamless interaction and 
+      efficient order management. Explore it at dolphinfurnishingindia.com 
+      using the following test accounts:
+      Super Admin: sanskarsakhraliya@gmail.com, Password: 2001
+      Client Admin: sansakhraliya+3212@gmail.com, Password: 123`,
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "https://raw.githubusercontent.com/Sanskar0124/My-Portfolio/master/src/images/Projects/DFI_landing_page.jpg",
     tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
+      "Python",
+      "Django",
       "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
+      "Javascript",
+      "sqlite",
+      "Bootstrap"
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
+    // github: "https://github.com/rishavchanda/Trackify",
+    webapp: "https://dolphinfurnishingindia.com",
   },
   {
     id: 0,
