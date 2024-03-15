@@ -265,7 +265,7 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
+    id: 0,
     title: "CRM ",
     // date: "Jun 2023 - Jul 2023",
     description:
@@ -292,13 +292,26 @@ export const projects = [
     webapp: "https://dolphinfurnishingindia.com",
   },
   {
-    id: 0,
+    id: 1,
     title: "Valorant Cards Trading App",
     date: "Apr 2023 - May 2023",
     description:
       "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
     image:
       "https://raw.githubusercontent.com/Sanskar0124/My-Portfolio/master/src/images/Projects/valo_trading_app.jpg",
+    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+    category: "web app",
+    github: "https://github.com/rishavchanda/Podstream",
+    webapp: "https://podstream.netlify.app/",
+  },
+  {
+    id: 2,
+    title: "SJ Jwellers (E-Commerce)",
+    date: "Apr 2023 - May 2023",
+    description:
+      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+    image:
+      "https://raw.githubusercontent.com/Sanskar0124/My-Portfolio/master/src/images/Projects/SJ-Jwellers.jpg",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
     github: "https://github.com/rishavchanda/Podstream",
