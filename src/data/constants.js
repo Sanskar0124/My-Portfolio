@@ -278,7 +278,7 @@ export const projects = [
       Super Admin: sanskarsakhraliya@gmail.com, Password: 2001
       Client Admin: sansakhraliya+3212@gmail.com, Password: 123`,
     image:
-      "https://raw.githubusercontent.com/Sanskar0124/My-Portfolio/master/src/images/Projects/DFI_landing_page.jpg",
+      "https://github.com/Sanskar0124/My-Portfolio/blob/master/src/gifs/DolphinFurnishingIndia-GoogleChrome2024-03-1518-03-35-ezgif.com-video-to-gif-converter.gif?raw=true",
     tags: [
       "Python",
       "Django",
