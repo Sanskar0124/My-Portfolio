@@ -311,7 +311,20 @@ export const projects = [
     description:
       "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
     image:
-      "https://raw.githubusercontent.com/Sanskar0124/My-Portfolio/master/src/images/Projects/SJ-Jwellers.jpg",
+      "https://github.com/Sanskar0124/My-Portfolio/blob/master/src/gifs/SJ-Jwelles-GoogleChrome2024-03-1519-41-08-ezgif.com-video-to-gif-converter.gif?raw=true",
+    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+    category: "web app",
+    github: "https://github.com/rishavchanda/Podstream",
+    webapp: "https://podstream.netlify.app/",
+  },
+  {
+    id: 2,
+    title: "Salon Management System",
+    date: "Apr 2023 - May 2023",
+    description:
+      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+    image:
+      "https://github.com/Sanskar0124/My-Portfolio/blob/master/src/gifs/ReactApp-GoogleChrome2024-03-1519-47-14-ezgif.com-video-to-gif-converter.gif?raw=true",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
     github: "https://github.com/rishavchanda/Podstream",
