@@ -1,7 +1,7 @@
 {
   "name": "sanskar-sakhareliya-portfolio",
   "version": "0.1.0",
-  "homepage": "https://sanskar0124.github.io",
+  "homepage": "https://sanskar0124.github.io/My-Portfolio/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

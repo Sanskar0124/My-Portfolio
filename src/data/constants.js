@@ -9,11 +9,11 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Sanskar0124",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+    "https://drive.google.com/file/d/1S4OKDS4pNtAfRYEhVmRyqvdaVZnTKn1U/view?usp=sharing",
+  linkedin: "https://www.linkedin.com/in/sanskar-sakhareliya-1a64451a0/",
+  twitter: "https://twitter.com/SanskarSakhareliya",
+  insta: "https://www.instagram.com/sanskar_200/?igsh=MXByOHFtYTR1ODdwcg%3D%3D",
+  facebook: "https://www.facebook.com/sanskar.sakhareliya.7?mibextid=ZbWKwL",
 };
 
 export const skills = [
@@ -286,7 +286,6 @@ export const projects = [
       "Bootstrap"
     ],
     category: "web app",
-    github: "",
     webapp: "https://dolphinfurnishingindia.com",
   },
   {
@@ -305,8 +304,6 @@ In essence, our Valorant trading app provides a platform where gamers can engage
       "https://github.com/Sanskar0124/My-Portfolio/blob/master/src/gifs/ViteReact-GoogleChrome2024-03-1519-53-04-ezgif.com-video-to-gif-converter.gif?raw=true",
     tags: ["React Js", "Vite", "Javascript", "Bootstrape", "HTML", "CSS"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
   },
   {
     id: 2,
@@ -331,8 +328,6 @@ In summary, this e-commerce project for SJ Jewelers serves as a user-friendly pl
       "Bootstrap"
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
   },
   {
     id: 3,
@@ -359,8 +354,6 @@ Overall, this salon management project offers a comprehensive suite of tools to 
       "Bootstrap"
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
   },
   {
     id: 4,
@@ -376,8 +369,6 @@ With a focus on user experience, the app boasts a stylish and modern design, enh
       "https://github.com/Sanskar0124/My-Portfolio/blob/master/src/gifs/WeatherApp-GoogleChrome2024-03-1520-24-51-ezgif.com-video-to-gif-converter.gif?raw=true",
     tags: ["Javascript", "Bootstrap", "HTML", "CSS"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
   },
   {
     id: 5,
@@ -391,8 +382,6 @@ With a focus on user experience, the app boasts a stylish and modern design, enh
       "https://github.com/Sanskar0124/My-Portfolio/blob/master/src/gifs/iDragon-JavaScriptGame-GoogleChrome2024-03-1521-52-02-ezgif.com-video-to-gif-converter.gif?raw=true",
     tags: ["Javascript", "HTML", "CSS"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
   },
 ];
 
