@@ -69,6 +69,10 @@ export const skills = [
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
       },
       {
+        name: "Django",
+        image: "https://static.djangoproject.com/img/logos/django-logo-negative.png",
+      },
+      {
         name: "MySQL",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
@@ -84,9 +88,9 @@ export const skills = [
     title: "Android",
     skills: [
       {
-        name: "Rect Native",
+        name: "React Native",
         image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMw6_RdwKQ9bDFfnKDX1iwMl4bVJEvd9PP53XuIw&s",
+          "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
       },
     ],
   },
@@ -96,7 +100,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
       },
       {
         name: "GitHub",
@@ -116,12 +120,12 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png",
       },
       {
         name: "Figma",
         image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+          "https://s3-alpha.figma.com/hub/file/697598809/ce5e0bb3-16b9-4d88-9bca-7d237fe725a8-cover.png",
       },
     ],
   },
