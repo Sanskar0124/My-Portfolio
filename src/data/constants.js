@@ -7,7 +7,7 @@ export const Bio = {
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/rishavchanda",
+  github: "https://github.com/Sanskar0124",
   resume:
     "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
@@ -172,10 +172,26 @@ export const experiences = [
   {
     id: 2,
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "Mobile Application Developer",
+    role: "Mobile Application Developer Intern",
     company: "Campuslife",
-    date: "Feb 2023 - Aug 2023",
+    date: "Jun 2022 - Aug 2022",
     desc: `Revamped the entire application from the ground up, implementing a suite of innovative features to enhance user experience. Additionally, seamlessly integrated Firebase to enable real-time notifications, ensuring users stay informed and engaged with timely updates.
+    `,
+    skills: [
+      "React Native",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "JavaScript",
+    ],
+  },
+  {
+    id: 2,
+    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    role: "Mobile Application Developer Intern",
+    company: "Enlighten It India",
+    date: "March 2022 - May 2022",
+    desc: `Worked across multiple applications, enhancing their designs and optimizing performance to deliver a superior user experience.
     `,
     skills: [
       "React Native",
@@ -188,7 +204,7 @@ export const experiences = [
   {
     id: 3,
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
-    role: "Python Django Developer",
+    role: "Python Django Developer Intern",
     company: "Etech Cube",
     date: "Aug 2021 - jan 2021",
     desc: "As a Django developer, I revamped the app, introducing fresh features and fine-tuning its performance for optimal user experience.",
@@ -204,7 +220,7 @@ export const experiences = [
   {
     id: 4,
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
-    role: "WordPress Developer",
+    role: "WordPress Developer Intern",
     company: "Fitig",
     date: "Aug 2021 - Oct 2021",
     desc: `Conceived and built optimized landing pages in HTML and CSS 
@@ -236,30 +252,12 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
-    school: "Kalinga Institute of Industrial Technology, Bhubaneswar",
-    date: "Oct 2021 - Sep 2025",
-    grade: "8.71 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
-    degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
-  },
-  {
-    id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-    school: "Methodist School, Dankuni",
-    date: "Apr 2019 - Apr 2025",
-    grade: "88.2%",
-    desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
-    degree: "ISC(XII), Science with Computer",
-  },
-  {
-    id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-    school: "Methodist School, Dankuni",
-    date: "Apr 2017 - Apr 2019",
-    grade: "92.3%",
-    desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
-    degree: "ICSC(X), Science with Computer",
+    img: "",
+    school: "",
+    date: "",
+    grade: "",
+    desc: "",
+    degree: ""
   },
 ];
 
@@ -288,7 +286,7 @@ export const projects = [
       "Bootstrap"
     ],
     category: "web app",
-    // github: "https://github.com/rishavchanda/Trackify",
+    github: "",
     webapp: "https://dolphinfurnishingindia.com",
   },
   {
@@ -296,10 +294,16 @@ export const projects = [
     title: "Valorant Cards Trading App",
     date: "Apr 2023 - May 2023",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      `
+      Introducing a Valorant trading application where users embark on an immersive journey by first signing up to unlock its array of features. Upon registration, users are granted a starter pack comprising five randomly generated cards. Each card is meticulously crafted, representing one of three distinct categories: agents, weapons, or stickers.
+
+What sets this platform apart is its innovative trading system, designed to foster a dynamic marketplace. Users have the freedom to engage in trades, exchanging their cards with others, provided that the cards being traded possess equivalent point values. Moreover, users can orchestrate multi-card transactions, amplifying the trading experience and enabling more intricate negotiations.
+
+In essence, our Valorant trading app provides a platform where gamers can engage in strategic trades, expand their card collection, and immerse themselves in the vibrant ecosystem of Valorant.
+      `,
     image:
       "https://github.com/Sanskar0124/My-Portfolio/blob/master/src/gifs/ViteReact-GoogleChrome2024-03-1519-53-04-ezgif.com-video-to-gif-converter.gif?raw=true",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+    tags: ["React Js", "Vite", "Javascript", "Bootstrape", "HTML", "CSS"],
     category: "web app",
     github: "https://github.com/rishavchanda/Podstream",
     webapp: "https://podstream.netlify.app/",
@@ -309,23 +313,83 @@ export const projects = [
     title: "SJ Jwellers (E-Commerce)",
     date: "Apr 2023 - May 2023",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      `
+      
+This e-commerce project was developed for SJ Jewelers, catering to both real clients and administrators. For users, the platform offers seamless functionality to browse products, add desired items to their cart, and effortlessly place orders. Additionally, users can conveniently track the status of their orders, ensuring transparency and peace of mind throughout the purchasing process.
+
+On the administrative side, the project provides a comprehensive admin panel, empowering administrators with robust tools to oversee all activities within the system. Administrators can monitor orders, manage inventory, and track sales metrics efficiently. Moreover, the admin panel enables administrators to effortlessly add new products to the catalog, ensuring that the platform stays updated with the latest offerings.
+
+In summary, this e-commerce project for SJ Jewelers serves as a user-friendly platform for clients to explore, shop, and track their orders, while also providing administrators with a powerful toolset to manage the entire e-commerce operation effectively.
+      `,
     image:
       "https://github.com/Sanskar0124/My-Portfolio/blob/master/src/gifs/SJ-Jwelles-GoogleChrome2024-03-1519-41-08-ezgif.com-video-to-gif-converter.gif?raw=true",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+    tags: [
+      "Python",
+      "Django",
+      "Javascript",
+      "sqlite",
+      "Bootstrap"
+    ],
     category: "web app",
     github: "https://github.com/rishavchanda/Podstream",
     webapp: "https://podstream.netlify.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Salon Management System",
     date: "Apr 2023 - May 2023",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      `
+      This salon management project is a comprehensive solution designed to streamline operations for salon owners across multiple branches. With this software, salon owners can efficiently manage staff, customers, bills, appointments, and various other aspects of their business.
+
+One of the key features of the software is its robust appointment management system. Salon staff can create appointments using a calendar interface, selecting available time slots based on staff availability. This enables efficient scheduling and helps avoid double bookings. Additionally, the software provides visibility into staff schedules, allowing salon managers to see which staff members are available at any given time.
+
+Furthermore, the software includes functionality to track important dates such as customer birthdays and anniversaries. This enables salon staff to personalize customer experiences by acknowledging these special occasions, fostering strong customer relationships and loyalty.
+
+Overall, this salon management project offers a comprehensive suite of tools to streamline salon operations, enhance customer experiences, and drive business growth.
+      `,
     image:
       "https://github.com/Sanskar0124/My-Portfolio/blob/master/src/gifs/ReactApp-GoogleChrome2024-03-1519-47-14-ezgif.com-video-to-gif-converter.gif?raw=true",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+    tags: [
+      "Python",
+      "Django",
+      "React Js",
+      "Javascript",
+      "sqlite",
+      "Bootstrap"
+    ],
+    category: "web app",
+    github: "https://github.com/rishavchanda/Podstream",
+    webapp: "https://podstream.netlify.app/",
+  },
+  {
+    id: 4,
+    title: "Weather App",
+    date: "Apr 2023 - May 2023",
+    description:
+      `
+      The Weather App is a sleek and intuitive web application designed to provide users with real-time weather information for specific locations. Leveraging an API to fetch accurate weather data, this project offers users a seamless experience while delivering precise and up-to-date forecasts.
+
+With a focus on user experience, the app boasts a stylish and modern design, enhancing usability and visual appeal. Users can easily navigate the interface to input their desired location and retrieve detailed weather information at their fingertips.
+      `,
+    image:
+      "https://github.com/Sanskar0124/My-Portfolio/blob/master/src/gifs/WeatherApp-GoogleChrome2024-03-1520-24-51-ezgif.com-video-to-gif-converter.gif?raw=true",
+    tags: ["Javascript", "Bootstrap", "HTML", "CSS"],
+    category: "web app",
+    github: "https://github.com/rishavchanda/Podstream",
+    webapp: "https://podstream.netlify.app/",
+  },
+  {
+    id: 5,
+    title: "I Dragon game",
+    date: "Apr 2023 - May 2023",
+    description:
+      `The iGragon game is a simple yet engaging project where players take control of a dragon character facing off against an enemy. In this side-scrolling game, the enemy moves from right to left, posing a threat to the player's dragon. The objective is for the player to survive for as long as possible by making the dragon jump over the enemy.
+
+      As the game progresses, the speed of the enemy increases, adding to the challenge and requiring the player to react more quickly to avoid being caught. This gradual increase in difficulty keeps the gameplay dynamic and encourages players to improve their skills to achieve higher scores.`,
+    image:
+      "https://github.com/Sanskar0124/My-Portfolio/blob/master/src/gifs/iDragon-JavaScriptGame-GoogleChrome2024-03-1521-52-02-ezgif.com-video-to-gif-converter.gif?raw=true",
+    tags: ["Javascript", "HTML", "CSS"],
     category: "web app",
     github: "https://github.com/rishavchanda/Podstream",
     webapp: "https://podstream.netlify.app/",
